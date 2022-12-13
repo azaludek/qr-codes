@@ -13,5 +13,3 @@ qr.make(fit=True)
 img = qr.make_image(fill_color = 'red', back_color = 'white')
 
 img.save('qr-code/qr-to-web-customized.png') #Set where you want to store final image of the QR code and name it
-
-#dešifrování QR kódu
