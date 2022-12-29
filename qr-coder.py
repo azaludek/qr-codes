@@ -3,7 +3,7 @@ import qrcode
 from PIL import Image
 
 
-data = 'https://azaludek.github.io/navodkwebu/'
+data = 'https://azaludek.github.io'
 
 qr = qrcode.QRCode(version = 1, box_size=10, border=5)
 
